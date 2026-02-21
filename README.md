@@ -98,10 +98,10 @@ I am fascinated by how systems fail, how incentives distort behavior, and how da
 
 My long-term goal is to build advisory frameworks that strengthen cyber resilience in high-stakes environments.
 
-### ✍️ Random Dev Quote
+### So that you smile & laugh:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SGGmilagro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SGGmilagro&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SGGmilagro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
