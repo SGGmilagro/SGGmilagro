@@ -93,15 +93,10 @@ Designing resilient systems where detection, modeling, and decision-making conve
 ## Philosophy
 
 Security is not only technical — it is structural.
-
 I am fascinated by how systems fail, how incentives distort behavior, and how data reveals hidden patterns.
-
 My long-term goal is to build advisory frameworks that strengthen cyber resilience in high-stakes environments.
 
-### So that you smile & laugh:
+### So that you smile and/or laugh:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SGGmilagro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SGGmilagro&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SGGmilagro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
